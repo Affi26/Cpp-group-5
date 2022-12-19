@@ -1,0 +1,132 @@
+[
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Basic_enemy.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Basic_enemy.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Basic_enemy.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Basic_projectile.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Basic_projectile.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Basic_projectile.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Basic_tower.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Basic_tower.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Basic_tower.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Bomb_projectile.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Bomb_projectile.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Bomb_projectile.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Bomb_tower.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Bomb_tower.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Bomb_tower.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Boss_enemy.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Boss_enemy.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Boss_enemy.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Button.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Button.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Button.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Enemy.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Enemy.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Enemy.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Game.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Game.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Game.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Game_over.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Game_over.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Game_over.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Ice_projectile.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Ice_projectile.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Ice_projectile.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Ice_tower.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Ice_tower.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Ice_tower.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Map.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Map.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Map.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Node.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Node.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Node.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Player.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Player.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Player.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Poison_projectile.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Poison_projectile.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Poison_projectile.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Poison_tower.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Poison_tower.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Poison_tower.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Projectile.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Projectile.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Projectile.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Stealth_enemy.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Stealth_enemy.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Stealth_enemy.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Tower.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Tower.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Tower.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/Wave.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Wave.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/Wave.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/gameCell.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/gameCell.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/gameCell.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/main.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/main.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/main.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/mainMenu.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/mainMenu.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/mainMenu.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/mapCreator.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/mapCreator.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/mapCreator.cpp"
+},
+{
+  "directory": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build",
+  "command": "/usr/bin/g++   -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/. -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src -I/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs -isystem /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/libs/SFML/include  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/tower_defence_game.dir/src/pathfinding.cpp.o -c /mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/pathfinding.cpp",
+  "file": "/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/src/pathfinding.cpp"
+}
+]

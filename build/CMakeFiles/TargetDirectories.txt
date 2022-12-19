@@ -1,0 +1,3 @@
+/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/alfre/documents/vscodefiles/cpp/cpp_autumn_2022/group-5/build/CMakeFiles/tower_defence_game.dir
